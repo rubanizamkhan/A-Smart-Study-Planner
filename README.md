@@ -6,7 +6,8 @@ A Smart Study Planner is a mini project for students to plan their day effective
 The program distributes daily study hours across subjects and provide a Daily Progress Tracker.  
 This project is beginner friendly.
 
-#FEATURES␣␣
+#FEATURES
+
 Takes 5 subjects as input.
 Ask difficulty levels 
 Ask daily available hours
@@ -20,3 +21,15 @@ Python 3
 No external libraries required
 
 
+#USER INPUT REQUIRED
+
+Name of user
+5 Subjects
+Available hours
+Difficulty of each subject
+Completed subjects
+
+#PROGRAM OUTPUT 
+
+A Smart Daily Study Plan displaying the allocated hours for each subject.
+A Daily Progress Report.
