@@ -33,3 +33,20 @@ Completed subjects
 
 A Smart Daily Study Plan displaying the allocated hours for each subject.
 A Daily Progress Report.
+
+-------------------------------
+YOUR SMART STUDY PLAN
+-------------------------------
+maths:2.18hours/day 
+physics:1.45hours/day 
+chemistry:1.45hours/day 
+english:0.73hours/day 
+python:2.18hours/day
+
+--------------------------------
+Daily Progress Tracker
+--------------------------------
+Enter the subjects you have completed today (coma separated): python
+Completed List: ['python']
+Pending List: ['maths', 'physics', 'chemistry', 'english', 'python']
+Today's Progress: 20.0%
