@@ -1,4 +1,4 @@
-# EDUCATION
+///# EDUCATION
 #A SMART STUDY PLANNER 
 
 Name=input("Enter your name: ")
@@ -56,10 +56,11 @@ completed_list=[x.strip() for x in completed.split(",")]
 
 subjects=[Subject1, Subject2, Subject3, Subject4, Subject5]
 
-pending_list=[s for s in subjects if s is not completed_list]
+pending_list=[s for s in subjects if s not in completed_list]
 
 progress=(len(completed_list)/len(subjects))*100
 
 print("\nCompleted List:", completed_list)
 print("\nPending List:", pending_list)
-print("\nToday's Progress:", round(progress, 2), "%")
+
+print("\nToday's Progress:", round(progress, 2), "%")///
