@@ -60,7 +60,8 @@ python:2.18hours/day
 
 
 
-Daily Progress Tracker
+
+DAILY PROGRESS TRACKER
 
 Enter the subjects you have completed today (coma separated): python
 
