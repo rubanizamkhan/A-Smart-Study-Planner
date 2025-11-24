@@ -20,6 +20,7 @@ Generates a Smart Study Planner
 
 Shows completed subjects, pending subjects and daily progress percentage
 
+
 **#TECH STACK**
 
 Python 3
@@ -29,10 +30,15 @@ Python 3
 **#USER INPUT REQUIRED**
 
 Name of user
+
 5 Subjects
+
 Available hours
+
 Difficulty of each subject
+
 Completed subjects
+
 
 **#PROGRAM OUTPUT**
 
@@ -51,6 +57,7 @@ chemistry:1.45hours/day
 english:0.73hours/day 
 
 python:2.18hours/day
+
 
 
 Daily Progress Tracker
