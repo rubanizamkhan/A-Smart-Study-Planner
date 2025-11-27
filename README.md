@@ -57,8 +57,6 @@ chemistry:1.45hours/day
 english:0.73hours/day 
 
 python:2.18hours/day
-```
-
 
 
 DAILY PROGRESS TRACKER
@@ -70,3 +68,4 @@ Completed List: ['python']
 Pending List: ['maths', 'physics', 'chemistry', 'english']
 
 Today's Progress: 20.0%
+```
