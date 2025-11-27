@@ -41,7 +41,7 @@ Completed subjects
 
 
 **#PROGRAM OUTPUT**
-```
+```python
 A Smart Daily Study Plan displaying the allocated hours for each subject.
 A Daily Progress Report.
 
