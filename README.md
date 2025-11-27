@@ -41,7 +41,7 @@ Completed subjects
 
 
 **#PROGRAM OUTPUT**
-
+```
 A Smart Daily Study Plan displaying the allocated hours for each subject.
 A Daily Progress Report.
 
@@ -57,7 +57,7 @@ chemistry:1.45hours/day
 english:0.73hours/day 
 
 python:2.18hours/day
-
+```
 
 
 
